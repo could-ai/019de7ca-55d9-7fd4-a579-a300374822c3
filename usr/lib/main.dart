@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'app_state.dart';
+import 'models.dart';
 import 'auth_screens.dart';
 import 'patient_screens.dart';
 import 'doctor_screens.dart';
